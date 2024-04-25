@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vikaschoubey20github
+- 👋 Hi, I’m Vikas Choubey
 - 👀 I’m interested in coding
 - 🌱 I’m currently leaning android development
 - 💞️ I’m looking to collaborate on Data Analytics 
