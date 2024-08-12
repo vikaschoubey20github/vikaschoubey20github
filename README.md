@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vikas Choubey
 - 👀 I’m interested in coding
-- 🌱 I’m currently leaning android development
+- 🌱 I’m currently learning android development
 - 💞️ I’m looking to collaborate on Data Analytics 
 - 📫 How to reach me 
 
