@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Vikas Choubey
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning android development
-- 💞️ I’m looking to collaborate on Data Analytics 
+- 💞️ I’m looking to collaborate on data analytics 
 - 📫 How to reach me https://www.linkedin.com/in/vikas-choubey-85b273262/
 
 <!---
